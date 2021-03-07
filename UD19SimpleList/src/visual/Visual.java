@@ -19,7 +19,7 @@ public class Visual extends JFrame{
 	private JLabel lblNewLabel;
 	
 	public Visual() {
-		setTitle("SimpleList");
+		setTitle("Películas");
 		setBounds(400,200,650,300);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setVisible(true);
