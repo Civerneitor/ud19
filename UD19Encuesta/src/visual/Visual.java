@@ -20,7 +20,7 @@ public class Visual extends JFrame{
 	private final ButtonGroup buttonGroup = new ButtonGroup();
 	
 	public Visual() {
-		setTitle("Películas");
+		setTitle("Encuesta");
 		setBounds(400,200,650,300);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		setVisible(true);
